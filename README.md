@@ -18,7 +18,9 @@ Did both lifting state and forms exercises.
 
 ## Thursday exercises - 31-10-2019 ##
 
-Will be uploaded shortly
+Got a boatload of help on this one. Really tough for me, but I got through it. Will look more into it today.
+[Click here for Thursday exercises ](https://github.com/Aeydin24/React/tree/master/react-crud-rest-exercise)
+
 
 ## Friday / Exam prep ## I have not got done before saturday. Will work on it on sunday, even though it probably doesnt matter.
  
